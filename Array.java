@@ -32,5 +32,6 @@ class SubArray{
 public class Array {
     public static void main(String[] args) {
         new SubArray().setArray();
-    } 
-}
+   }
+} 
+
